@@ -20,3 +20,7 @@ Dataset Deteksi Mengantuk terdiri dari beragam koleksi rekaman gerakan mata dari
 - pip install seaborn
 - pip install tensorflow==2.10
 - pip install scikit-learn
+
+### **Note**
+
+Untuk sementara file dataset belum di publish namun telah disediakan di file README.md ini, seluruh model weights .h5 juga belum dipublish, namun dapat tersedia ketika model yang telah dibuat dijalankan

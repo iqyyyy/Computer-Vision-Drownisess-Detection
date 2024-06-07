@@ -12,11 +12,11 @@ Selamat datang di Dataset Deteksi Kantuk UnityEyes! Dataset komprehensif ini dir
 Dataset Deteksi Mengantuk terdiri dari beragam koleksi rekaman gerakan mata dari subjek dengan demografi yang berbeda-beda, yang diambil dalam skenario mengemudi yang terkendali. Data tersebut mencakup urutan gambar mata, yang diberi label secara cermat untuk menunjukkan apakah mata terbuka atau tertutup, yang berfungsi sebagai kebenaran dasar untuk mendeteksi pengemudi yang mengantuk.
 
 Environment yang dibutuhkan:
-# pip install pillow
-# pip install opencv-python
-# pip install numpy
-# pip install pandas
-# pip install matplotlib
-# pip install seaborn
-# pip install tensorflow==2.10
-# pip install scikit-learn
+- 'pip install pillow'
+- 'pip install opencv-python'
+- 'pip install numpy'
+- 'pip install pandas'
+- 'pip install matplotlib'
+- 'pip install seaborn'
+- 'pip install tensorflow==2.10'
+- 'pip install scikit-learn'
